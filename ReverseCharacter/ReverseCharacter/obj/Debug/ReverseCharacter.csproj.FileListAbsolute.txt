@@ -1,0 +1,8 @@
+C:\Ignition Project1\ReverseCharacter\ReverseCharacter\bin\Debug\ReverseCharacter.exe.config
+C:\Ignition Project1\ReverseCharacter\ReverseCharacter\bin\Debug\ReverseCharacter.exe
+C:\Ignition Project1\ReverseCharacter\ReverseCharacter\bin\Debug\ReverseCharacter.pdb
+C:\Ignition Project1\ReverseCharacter\ReverseCharacter\obj\Debug\ReverseCharacter.csproj.AssemblyReference.cache
+C:\Ignition Project1\ReverseCharacter\ReverseCharacter\obj\Debug\ReverseCharacter.csproj.SuggestedBindingRedirects.cache
+C:\Ignition Project1\ReverseCharacter\ReverseCharacter\obj\Debug\ReverseCharacter.csproj.CoreCompileInputs.cache
+C:\Ignition Project1\ReverseCharacter\ReverseCharacter\obj\Debug\ReverseCharacter.exe
+C:\Ignition Project1\ReverseCharacter\ReverseCharacter\obj\Debug\ReverseCharacter.pdb

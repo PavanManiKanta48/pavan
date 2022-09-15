@@ -1,0 +1,8 @@
+C:\Ignition Project1\Operations\Operations\bin\Debug\Operations.exe.config
+C:\Ignition Project1\Operations\Operations\bin\Debug\Operations.exe
+C:\Ignition Project1\Operations\Operations\bin\Debug\Operations.pdb
+C:\Ignition Project1\Operations\Operations\obj\Debug\Operations.csproj.AssemblyReference.cache
+C:\Ignition Project1\Operations\Operations\obj\Debug\Operations.csproj.SuggestedBindingRedirects.cache
+C:\Ignition Project1\Operations\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Ignition Project1\Operations\Operations\obj\Debug\Operations.exe
+C:\Ignition Project1\Operations\Operations\obj\Debug\Operations.pdb

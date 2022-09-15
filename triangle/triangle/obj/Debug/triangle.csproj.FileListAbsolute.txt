@@ -1,0 +1,8 @@
+C:\Ignition Project1\triangle\triangle\bin\Debug\triangle.exe.config
+C:\Ignition Project1\triangle\triangle\bin\Debug\triangle.exe
+C:\Ignition Project1\triangle\triangle\bin\Debug\triangle.pdb
+C:\Ignition Project1\triangle\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+C:\Ignition Project1\triangle\triangle\obj\Debug\triangle.csproj.SuggestedBindingRedirects.cache
+C:\Ignition Project1\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Ignition Project1\triangle\triangle\obj\Debug\triangle.exe
+C:\Ignition Project1\triangle\triangle\obj\Debug\triangle.pdb
