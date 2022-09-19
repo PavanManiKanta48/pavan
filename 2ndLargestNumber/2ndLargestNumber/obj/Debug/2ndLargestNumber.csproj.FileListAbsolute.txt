@@ -1,0 +1,8 @@
+C:\Ignition Project1\2ndLargestNumber\2ndLargestNumber\bin\Debug\2ndLargestNumber.exe.config
+C:\Ignition Project1\2ndLargestNumber\2ndLargestNumber\bin\Debug\2ndLargestNumber.exe
+C:\Ignition Project1\2ndLargestNumber\2ndLargestNumber\bin\Debug\2ndLargestNumber.pdb
+C:\Ignition Project1\2ndLargestNumber\2ndLargestNumber\obj\Debug\2ndLargestNumber.csproj.AssemblyReference.cache
+C:\Ignition Project1\2ndLargestNumber\2ndLargestNumber\obj\Debug\2ndLargestNumber.csproj.SuggestedBindingRedirects.cache
+C:\Ignition Project1\2ndLargestNumber\2ndLargestNumber\obj\Debug\2ndLargestNumber.csproj.CoreCompileInputs.cache
+C:\Ignition Project1\2ndLargestNumber\2ndLargestNumber\obj\Debug\2ndLargestNumber.exe
+C:\Ignition Project1\2ndLargestNumber\2ndLargestNumber\obj\Debug\2ndLargestNumber.pdb
